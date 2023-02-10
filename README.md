@@ -1,0 +1,2 @@
+# dockerfiledelegateminimal
+minimal delegate sample
